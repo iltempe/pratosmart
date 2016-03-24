@@ -1,0 +1,29 @@
+---
+id: 1817
+title: Lo spam è fatto dalle persone, non dalle macchine
+date: 2015-03-11T11:25:57+00:00
+author: Matteo
+layout: post
+guid: http://pratosmart.teo-soft.com/?p=1817
+permalink: /lo-spam-e-fatto-dalle-persone-non-dalle-macchine/
+dsq_thread_id:
+  - 3585893190
+categories:
+  - Blog
+  - Persone
+tags:
+  - prato
+  - social network
+  - spamming
+---
+<p style="text-align: justify;">
+  Chi mi ha monitorato negli ultimi mesi sa che ho dato ampio spazio al progetto <a href="http://stanzonidigitali.altervista.org/" target="_blank">Stanzoni Digitali</a> e qualcuno potrebbe anche accusarmi di esser stato “pesantemente monotematico” o addirittura fastidioso. La “battaglia” da combattere in questo caso era un <a href="https://www.indiegogo.com/projects/stanzoni-digitali" target="_blank">crowdfounding </a>cittadino e il marketing di un progetto online: la tentazione di fare invasione delle bacheche facebook di tutta Prato c&#8217;è stata, ma vi assicuro che ogni post è stato pensato, calibrato soprattutto non più ripetuto nel caso in cui avesse dato fastidio. Per alcuni post ho chiesto aiuto direttamente agli amministratori delle community, che valutassero il progetto e che (se volevano) lo sostenessero per primi per postarne la promozione nei loro gruppi o su <a href="https://twitter.com/" target="_blank">Twitter</a>. In più ci sono state persone (molte) che tramite il gruppo di coordinamento hanno deciso di postare a loro volta (su mia richiesta) i messaggi di invito a partecipare al progetto sui loro profili o nei gruppi di loro competenza. Hanno scelto di farlo in modo consapevole senza che io pubblicassi nulla sulle loro bacheche personali. Avrei potuto farlo, ma non l’ho fatto. I miei tweet sono stati tutti indirizzati a potenziali ascoltatori del progetto con richieste precise a persone, organizzazioni, aziende che potevano accoglierlo, rilanciarlo oppure ignorarlo. Il gruppo facebook #stanzonidigitali è stato fatto anche per contenere gli aggiornamenti senza invadere. Ne è uscita fuori un&#8217;azione di propanganda del progetto piuttosto distribuita tra le persone che lo hanno sposato.
+</p>
+
+<p style="text-align: justify;">
+  Lo <a href="http://it.wikipedia.org/wiki/Spam" target="_blank">spamming </a>è diverso, in particolar modo il social spamming è volutamente utilizzare le cerchie social di qualcun’altro per promuoverti sul web. Ora qualcuno mi dirà: “beh sta nelle regole del gioco dei social”. E’ vero. Se stai su <a href="https://it-it.facebook.com/">facebook </a>ad esempio c’è la possibilità che tu sia taggato perchè un post di un altro di compaia in bacheca (a meno di inserire controlli nelle impostazioni di profilo). La differenza però la fanno i rapporti umani come sempre. Ricordiamoci che i social non sono semplici “macchine” ma sono rapporti tra le persone. Quindi? beh quindi ad esempio per me fa molta differenza essere taggato in una foto di un progetto a cui ho aderito in modo conclamato, oppure in una foto di un amico che mi segnala di aver postato la foto della cena di classe, piuttosto che essere taggato in un post di qualcuno che pubblica sulla mia bacheca un articolo ad un sito solo per cercare di aumentare le sue visite. <strong>Questo è per me lo spam</strong>. Introdursi (senza alcuna autorizzazione sui miei canali) per farti pubblicità. Ora indipendentemente da tutti i controlli che si possono impostare sui social francamente <strong>io (mi ripeto) credo nelle persone</strong>. Credo che gli strumenti siano&nbsp;ottimi strumenti di comunicazione, <strong>ma sono strumenti alla base dei quali devono esistere&nbsp;i rapporti umani (e guai se non fosse cosi)</strong>. Ecco perchè bannerò chi reputerò fastidioso dentro le mie reti sociali: sto osservando nell’area di Prato una tendenza al “posting compulsivo” che non solo è fastidiosa, ma è controproducente !<img class="wp-image-1819 aligncenter" src="http://pratosmart.teo-soft.com/wp-content/uploads/2015/03/6354852227_a1b12594f8_o-1024x768.png" alt="6354852227_a1b12594f8_o" width="560" height="420" srcset="http://pratosmart.teo-soft.com/wp-content/uploads/2015/03/6354852227_a1b12594f8_o-300x225.png 300w, http://pratosmart.teo-soft.com/wp-content/uploads/2015/03/6354852227_a1b12594f8_o.png 1024w" sizes="(max-width: 560px) 100vw, 560px" />
+</p>
+
+<p style="text-align: justify;">
+  Il social spammer è infatti come un venditore porta a porta di aspirapolvere, che pensa che più rompe le scatole al prossimo e più vende. Da un’indagine di <a href="http://www.impresapratica.com/" target="_blank">impresa pratica</a> si stima che solo lo 0,00001% di una campagna di spamming vada a segno: che può essere anche molto ma a che prezzo?. Questo tipo di metodologia, che punta alla quantità, qualcosa che io ho sempre evitato sul web come chi mi segue sa. Il metodo è quello appunto dei venditori di aspirapolvere. Loro vanno porta a porta e tentano di vendere. Ma a quante porte devono bussare, prima di concludere una vendita? Ovviamente troppe. Questo tipo di vendita è adottata da persone che non hanno capito come funzionano i social network. Ebbene, questo sistema non funziona. O meglio, funziona se ragioni come uno spammer. Se rompi le scatole a milioni di persone, alla fine qualcuno compra. Ma quanto ti costa in termini di energie profuse e di tempo perso? Quanto in termini di immagine? Alla fine sarai visto dalla maggioranza delle persone come uno scocciatore. Su Facebook, la gente cancella l’amicizia per molto meno. Basta poco, ovvero rispettare le regole del buonsenso, usare i propri canali e quelli che sai per certo che accetteranno ciò che vuoi dire. Mi rivolgo agli attuali cercatori (ne ho visti diversi) di aumento delle visite su Prato quindi: vi conviene davvero? Io credo di no.
+</p>

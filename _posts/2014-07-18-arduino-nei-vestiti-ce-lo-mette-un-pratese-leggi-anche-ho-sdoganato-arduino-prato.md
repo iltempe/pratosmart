@@ -1,0 +1,33 @@
+---
+id: 720
+title: 'Arduino nei vestiti ce lo mette un pratese (leggi anche &#8220;Abbiamo sdoganato Arduino a Prato&#8221;)'
+date: 2014-07-18T11:00:22+00:00
+author: Matteo
+layout: post
+guid: http://pratosmart.teo-soft.com/?p=720
+permalink: /arduino-nei-vestiti-ce-lo-mette-un-pratese-leggi-anche-ho-sdoganato-arduino-prato/
+dsq_thread_id:
+  - 3032662176
+categories:
+  - Blog
+  - Le storie di Pratosmart
+tags:
+  - arduino
+  - cosplay
+  - prato
+---
+<p class="p1">
+  Oggi Matteo Simoni ci racconta la sua storia.
+</p>
+
+<p class="p1" style="text-align: justify;">
+  A lui sembra qualcosa di estremamente naturale, ma non lo è. Come al solito diamo il giusto peso alle cose. Quella che lui fa è innovazione allo stato puro. Lui ha deciso di aggiungere dell&#8217;elettronica a dei cosplay (ovvero dei travestimenti). E lo fa indovinate con cosa? Naaaaaaa&#8230;.Ebbene si. Con quella scheda elettronica che io mi porto sempre in giro, per far vedere alle persone quanto sia semplice oggi rendere elettroniche le proprie invenzioni. E&#8217; lui. L&#8217;inimitabile <a title="Perchè con Arduino cambieremo il mondo" href="http://pratosmart.teo-soft.com/perche-con-arduino-cambieremo-il-mondo/" target="_blank">Arduino</a>. Aggiungere elettronica a dei travestimenti: questo è cambiare le cose. Questo è il vero &#8220;rilancio del tessile&#8221;.Lascio la parola a Matteo.
+</p>
+
+> <p class="p1" style="text-align: justify;">
+>   <a href="http://pratosmart.teo-soft.com/wp-content/uploads/2014/07/148226_306842706084568_511170375_n.jpg"><img class="alignleft  wp-image-721" src="http://pratosmart.teo-soft.com/wp-content/uploads/2014/07/148226_306842706084568_511170375_n.jpg" alt="148226_306842706084568_511170375_n" width="371" height="553" srcset="http://pratosmart.teo-soft.com/wp-content/uploads/2014/07/148226_306842706084568_511170375_n-201x300.jpg 201w, http://pratosmart.teo-soft.com/wp-content/uploads/2014/07/148226_306842706084568_511170375_n.jpg 483w" sizes="(max-width: 371px) 100vw, 371px" /></a><br /> Ho cominciato a fare <a href="http://it.wikipedia.org/wiki/Cosplay" target="_blank">cosplay</a> nel 2008, a Lucca Comics di quell&#8217;anno, inizialmente facevo costumi piuttosto semplici, a volte arrangiati con abbigliamento trovato in casa e modificato, altre volte erano sartoriali partendo dai cartamodelli (ho imparato a cucire e disegnare i cartamodelli quando avevo 14 anni), dopo un anno mi avvicinai alla realizzazione di  costumi più elaborati, quali armature e robot, ovvero iron man, dead space, space marine, e categorie simili. Realizzare costumi del genere da molta soddisfazione anche se il le tempistiche di lavoro sono abbastanza lunghe, le realizzo principalmente con 3 materiali, uno è il polietilene, una specie di gomma che si può scolpire e modellare col calore lo si trova in pannelli, il plastazoto, molto simile al polietilene ma di qualità maggiore sia per caratteristiche sia per prestazioni, questi 2 subiscono vari rivestimenti di resina o lattice; infine la vetroresina, materiale rigido e modellabile soltanto nella fase in cui sta per  catalizzare, il che significa che ha un tempo di lavorabilità di circa un&#8217; ora, in base anche alle esigenze combino questi 3 materiali. Costumi che rappresentano armature tecnologiche o robot hanno alcune parti &#8220;meccanizzate&#8221;  ovvero che si muovono,o piccoli droniche camminano o volano, immaginatevi il casco di iron man che si apre per far vedere il vero volto della persona, oppure uno sportellino su di un braccio che deve aprirsi per far uscire un arma, sembrano parti impossibili da realizzare, invece con un pò di pazienza si può far si che tutto questo possa essere realizzato, si può partire da piccoli motori smontati da elettrodomestici o apparecchi elettronici non più funzionanti, un frullatore, un lettore dvd, una stampante, ecc.. una volta che avremo il motore basterà riadattargli l&#8217;alimentazione e adattarlo con qualche perno alla parte interessata del costume, quest&#8217;ultima mediante un bottone situato in una zona accessibile per le mani, e l&#8217;azione del motorino, prenderà &#8220;vita&#8221; muovendosi, facendo un&#8217; azione di apertura e chiusura oppure di girare su se stessa, un altro metodo, più professionale per meccanizzare le mie armature è l&#8217;utilizzo di arduino, un chip collegabile a qualsiasi oggetto o strumentazione elettroniche, che, mediante il linguaggio c++ potremo programmare e fargli comandare le apparecchiature elettroniche alle quali lo abbiamo collegato, per l&#8217;utilizzo di arduino sono affiancato da un mio amico che conosce bene i linguaggi di programmazione, spesso lavorando insieme elaboriamo progetti interessanti, in questo momento stiamo lavorando su una torretta girevole, che mediante una telecamera segue i volti delle persone, una volta finita programmata verrà rivestita coi materiali di cui vi ho precedentemente parlato. L&#8217;uso di arduino è molto interessante e sopratutto soddisfacente, lo usai per la prima volta un <img class=" wp-image-722 alignright" src="http://pratosmart.teo-soft.com/wp-content/uploads/2014/07/936561_342867995842695_601094884_n.jpg" alt="936561_342867995842695_601094884_n" width="441" height="320" />paio di anni fa, per meccanizzare il casco di iron man, oltre alle meccanizzazioni, le armature presentano quasi sempre anche illuminazioni, siano esse presenti sul corpo stesso dell&#8217;armatura o su di un arma, per queste utilizzo led ad alta luminosità, spesso acquisto quelli delle automibili perchè più facili da saldare e farne il circuito, anche qui una volta assemblate le illuminazioni si tratta di adattarle addosso al costume applicando dei diffusori e filtri di modo che la luce non sia diretta agli occhi del pubblico. Mediamente un costume-armature necessita dai 5 ai 9 mesi di lavoro. L&#8217;ultimo costume che ho realizzato è stato un capitano space marine tratto da <a href="http://it.wikipedia.org/wiki/Warhammer_40.000" target="_blank">Warhammer 40.000</a> realizzato in un anno e mezzo col quale ho partecipato al contest di comics lo scorso aprile, sono riuscito a vincere 2 premi, miglior costume maschile e anche il primo premio che consiste in un viaggio in Giappone, partirò questo agosto e sarà un occasione per nuovi studi sui robot, visto che quella è proprio la loro patria.
+> </p>
+
+<p class="p1" style="text-align: justify;">
+  Bravo Matteo! Questo vuol dire rinnovare un mestiere con le nuove tecnologie.  Quando parlo di cultura dell&#8217;innovazione per far capire che Prato ha un potenziale di persone qualificate per fare intendo proprio questo. Prendiamo esempio gente, prendiamo esempio e faremo delle grandi cose anche a Prato
+</p>
