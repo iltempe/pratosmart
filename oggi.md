@@ -12,5 +12,6 @@ categories:
   - Blog
 ---
 <p style="text-align: justify;">
-  <img class="alignleft" src="http://denaro.it/wp-content/uploads/2013/03/smart_city.jpg" alt="" width="397" height="215" />Pratosmart nasce perchè siamo convinti che Prato abbia in sè un sottobosco di elementi per creare una vera e propria smart city. Non dobbiamo aver paura della tecnologia, ma usarla per migliorare la nostra città. facciamoci sentire.
+  <img class="alignleft" src="http://denaro.it/wp-content/uploads/2013/03/smart_city.jpg" alt="" width="397" height="215" />
+Pratosmart nasce perchè siamo convinti che Prato abbia in sè un sottobosco di elementi per creare una vera e propria smart city. Non dobbiamo aver paura della tecnologia, ma usarla per migliorare la nostra città. facciamoci sentire.
 </p>
