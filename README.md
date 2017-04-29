@@ -6,3 +6,15 @@ il che significa che puoi usarli e riusarli per fare qualunque cosa tu voglia a 
 
 Se vuoi maggiori informazioni su questa licenza consulta questa pagina
 http://creativecommons.org/licenses/by/4.0/
+
+<div class="panel-group">
+{% for member in site.post %}
+<div class="panel-body">
+<a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
+	<h4 class="list-group-item-heading">{{member.title}}</h4>
+	<p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
+	<p class="list-group-item-text">{{member.issue.data.data}}</p>
+</a>
+</div>
+{% endfor %}
+</div>
