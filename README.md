@@ -8,7 +8,7 @@ Se vuoi maggiori informazioni su questa licenza consulta questa pagina
 http://creativecommons.org/licenses/by/4.0/
 
 <div class="panel-group">
-{% for member in site.post %}
+{% for member in post %}
 <div class="panel-body">
 <a href="/issues/{{ member.number | datapage_url: '.' }}" class="list-group-item">
 	<h4 class="list-group-item-heading">{{member.title}}</h4>
