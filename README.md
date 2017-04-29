@@ -1,5 +1,5 @@
 # Pratosmart
-Questo repository contiente tutti i post del progetto Pratosmart coordinato da Matteo Tempestini da Gennaio 2014 a Marzo 2016.
+[Questo repository](https://github.com/iltempe/pratosmart) contiente tutti i post del progetto Pratosmart coordinato da Matteo Tempestini da Gennaio 2014 a Marzo 2016. Puoi sfogliarli e leggerli direttamente su github.
 
 Tutti i post del progetto sono distribuiti con licenza di libero riuso Creative Commons CC BY 4.0,
 il che significa che puoi usarli e riusarli per fare qualunque cosa tu voglia a patto di citare la loro provenienza.
